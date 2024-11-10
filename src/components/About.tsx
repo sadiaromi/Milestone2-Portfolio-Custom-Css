@@ -27,7 +27,7 @@ function About() {
                 <div className="hero-right-div">
                     <h1 className="title-hero">About Me</h1>
                         <p className="description-hero">
-                       Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis reiciendis unde molestias, nobis vero sint commodi quae, adipisci accusamus cumque saepe porro laborum maiores praesentium, dolorum ea voluptas delectus repellendus?
+                            I am a front-end developer with a strong interest in web development. Although I have no any professional experience yet, I have learned HTML, CSS, and Typescript and continue to improve my skills. I enjoy creating websites that are both visually appealing and easy to use. My goal is to keep improving and build websites that are useful for everyone.
                         </p>
                 </div>
 

@@ -1,4 +1,4 @@
-import "../style/Hero.css"; 
+import "../style/Hero.css";
 import Image from "next/image";
 
 function Hero() {
@@ -16,10 +16,10 @@ function Hero() {
                 </div>
                 {/* right */}
                 <div className="hero-right-div">
-                    <h1 className="title-hero"> Roman Sadia 
+                    <h1 className="title-hero">I am Roman Sadia 
                     Front-end Developer</h1>
                         <p className="description-hero">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum voluptatem iste nesciunt expedita commodi et, dolorem laudantium provident repellat voluptas omnis doloribus similique aspernatur officia reiciendis! Consectetur perferendis rerum error.
+                               I am a front-end developer eager to start my career, with foundational skills in HTML, CSS, and Typescript. Although I have no professional experience yet, I am passionate about web development and commited to learning and improving. I'm excited to contribute to projects, build user-friendly websites, and grow as a developer.
 </p>
                         <button className="hero-btn">Hire Me</button>
                 </div>
