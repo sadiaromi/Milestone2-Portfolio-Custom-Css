@@ -27,10 +27,10 @@ function About() {
                 <div className="hero-right-div">
                     <h1 className="title-hero">About Me</h1>
                         <p className="description-hero">
-                        Hi, I'm roman sadia, a budding front-end developer with a strong passion for web development. 
-                        Although I'm just starting my journey and don't have professional experience yet, I've gained 
+                        Hi, I am roman sadia, a budding front-end developer with a strong passion for web development. 
+                        Although I am just starting my journey and don't have professional experience yet. I've gained 
                         a solid foundation in HTML, CSS, and JavaScript through personal projects and online learning. 
-                        I love creating visually appealing, responsive, and user-friendly websites, and  I'm excited 
+                        I love creating visually appealing, responsive, and user-friendly websites, and  I am excited 
                         to continue growing in this field while contributing to meaningful projects.
                         </p>
                 </div>

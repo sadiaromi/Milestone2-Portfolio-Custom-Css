@@ -19,8 +19,8 @@ function Hero() {
                     <h1 className="title-hero">I'm Roman Sadia 
                     Front-end Developer</h1>
                         <p className="description-hero">
-                       I'm a passionate and eager-to-learn front-end developer with a strong foundation in HTML, CSS, and JavaScript. eager to build responsive and user-friendly websites. Though new to the field, I'm committed to learning and growing in the ever-evolving world of web development. 
-                        </p>
+                       I am a passionate and eager-to-learn front-end developer with a strong foundation in HTML, CSS, and JavaScript. eager to build responsive and user-friendly websites. Though new to the field, I am committed to learning and growing in the ever-evolving world of web development. 
+</p>
                         <button className="hero-btn">Hire Me</button>
                 </div>
 
