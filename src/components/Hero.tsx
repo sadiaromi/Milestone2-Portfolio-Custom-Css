@@ -16,7 +16,7 @@ function Hero() {
                 </div>
                 {/* right */}
                 <div className="hero-right-div">
-                    <h1 className="title-hero">I'm Roman Sadia 
+                    <h1 className="title-hero"> Roman Sadia 
                     Front-end Developer</h1>
                         <p className="description-hero">
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum voluptatem iste nesciunt expedita commodi et, dolorem laudantium provident repellat voluptas omnis doloribus similique aspernatur officia reiciendis! Consectetur perferendis rerum error.
