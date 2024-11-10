@@ -57,7 +57,6 @@ input{
     animation: zoomInUp 1s ease-out forwards;
 }
 .btn-sub:hover{
-    text-decoration: underline;
     color: lightpink;
 }
 
