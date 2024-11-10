@@ -19,8 +19,11 @@ function Hero() {
                     <h1 className="title-hero">I am Roman Sadia 
                     Front-end Developer</h1>
                         <p className="description-hero">
-                               I am a front-end developer eager to start my career, with foundational skills in HTML, CSS, and Typescript. Although I have no professional experience yet, I am passionate about web development and commited to learning and improving. I'm excited to contribute to projects, build user-friendly websites, and grow as a developer.
-</p>
+                               I am a front-end developer eager to start my career, with foundational skills in HTML,
+                              CSS, and Typescript. Although I have no professional experience yet, I am passionate 
+                              about web development and committed to learning and improving. I&apos;m excited to contribute 
+                              to projects, build user-friendly websites, and grow as a developer.
+                        </p>
                         <button className="hero-btn">Hire Me</button>
                 </div>
 
@@ -28,5 +31,4 @@ function Hero() {
         </div>
     );
 }
-export default Hero
- 
+export default Hero;
